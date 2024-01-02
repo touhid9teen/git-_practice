@@ -1,3 +1,9 @@
 A Git pull request (PR) is a way to propose changes to a Git repository. 
 It is commonly used in collaborative software development workflows, especially
 when multiple developers are working on a project. Here's a basic overview of 
+
+
+I wanna add some definitions :::
+
+Pull Request: A pull request is a way to propose changes to a Git repository
+
